@@ -1,0 +1,30 @@
+@charset "UTF-8";
+  style 
+  body{
+    background-image: linear-gradient(to right,#9C00F5, #42324B);
+  }  
+  *{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+main{
+    background-image: linear-gradient(to bottom,#9C00F5, #42324B);
+    background-image: linear-gradient(to end, );
+box-shadow: 7px 7px 10px black;
+padding: 25px;
+width: 600px;
+border-radius: 10px;
+margin: auto;
+    }
+h1{
+ color: aliceblue;
+   text-align: center;
+   text-shadow: 5px 5px 5px #100c12;
+}
+p{
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    color:aliceblue;
+    text-shadow:5px 5px 5px #100c12;
+}

@@ -1,0 +1,32 @@
+@charset "UTF-8";
+div{
+    background-image: linear-gradient(to right,#B310FA, #585CCF);
+    color: white;
+    text-align: center;
+    justify-content: space-between;
+   height: 200px;
+   
+}
+    .div2{
+        background-image: linear-gradient(to right,#b69fc1, #acadc1 );
+    }
+
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 10px;
+    text-align: center;
+}
+h2{
+    display: flex;
+    font-size: 20px;
+    text-align: left;
+    align-items:flex-end ;
+}
+.div2{
+    margin:0 auto;
+    margin: 10px;
+    width: 50%;
+    height: 1000px;
+}
